@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Daniel from Sweden<br><br>- ✨ Creating bugs since 2019<br>- 🔭 I’m working as frontend developer<br>- 📚 I'm currently learning flutter<br>- ⚡ In my free time I'm at the gym 💪🏼 or flying somewhere .<br>- 🎯 Goals: Live in a hot location 🥵  and explore more of the world ✈️ 🌏</p>
+<p align="left">I'm Daniel from Sweden<br><br>- ✨ Creating bugs since 2019<br>- 🔭 I’m working as frontend developer<br>- 📚 I'm currently learning flutter and Chinese<br>- ⚡ In my free time I'm at the gym 💪🏼 or flying somewhere .<br>- 🎯 Goals: Live in a hot location 🥵  and explore more of the world ✈️ 🌏</p>
 
 ###
 
