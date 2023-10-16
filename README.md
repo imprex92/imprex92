@@ -70,6 +70,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/imprex92/imprex92/output/snake.svg" alt="Snake animation" />
-
 ###
